@@ -21,3 +21,8 @@
 [Это сайт нашего университета](http://mguu.ru)
 
 ![image](https://fenolog.rgo.ru/sites/default/files/styles/full_width/public/user/13955/annahabarovagorodskoyobitatel-601300.jpg?itok=sIQ6aTma)
+
+|Заголовок 1|Заголовок 2|Заголовок 3|
+|-----------|-----------|-----------|
+|Ячейка 1||Ячейка 2||Ячейка 3|
+|Ячейка 4||Ячейка 5||Ячейка 6|
